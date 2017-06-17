@@ -1,9 +1,1 @@
 
-# netbeans project files
-/nbproject/
-
-# tmp files
-*~
-
-# merge original backup files
-*.orig
