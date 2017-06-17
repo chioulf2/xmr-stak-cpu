@@ -1,0 +1,8 @@
+/home/gjciou/xmr-stak-cpu/CMakeFiles/install.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/list_install_components.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/rebuild_cache.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/edit_cache.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/xmr-stak-c.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/xmr-stak-cpu.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/install/strip.dir
+/home/gjciou/xmr-stak-cpu/CMakeFiles/install/local.dir
