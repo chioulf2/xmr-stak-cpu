@@ -23,7 +23,13 @@
  * ],
  */
 "cpu_threads_conf" : 
-null,
+[
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
+   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 }c,
 
 /*
  * LARGE PAGE SUPPORT
@@ -94,8 +100,8 @@ null,
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.supportxmr.com:3333",
-"wallet_address" : "",
+"pool_address" : "monerohash.com:3333",
+"wallet_address" : "46JY571ywoQKrs2gFcMHef2TbUJrsK2Wk94DeEWMNyo3GV84a4Z1411KTT1iD8JrYcTPS9PrYuggJDxNq65FvjWy4gWeig3",
 "pool_password" : "",
 
 /*
